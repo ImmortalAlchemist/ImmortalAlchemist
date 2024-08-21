@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TimeVolt
+- 👋 Hi
 - 👀 I’m interested in creating games
 - 🌱 I’m currently learning anything but unity
 - 💞️ I’m looking to collaborate on games, maybe
