@@ -1,5 +1,5 @@
-- 👋 Hi
-- 👀 I’m interested in creating games
-- 🌱 I’m currently learning anything but unity
-- 💞️ I’m looking to collaborate on games, maybe
-- 📫 How to reach me: Don't
+- Hi
+- I’m interested in creating games
+- I’m currently learning everything
+- I’m looking to collaborate on games, maybe
+- How to reach me: Don't
