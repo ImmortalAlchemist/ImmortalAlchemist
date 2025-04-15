@@ -1,5 +1,5 @@
 - Hi
-- I’m interested in creating games
-- I’m currently learning everything
+- I’m interested in creating apps
+- I’m currently learning everything (mostly)
 - I’m looking to collaborate on games, maybe
-- How to reach me: Don't
+- How to reach me: Here
